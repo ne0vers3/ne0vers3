@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ne0vers3
 - 👀 I’m interested in CODING!!
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on creatinh new projects!!
+- 💞️ I’m looking to collaborate on creating new projects!!
 - 📫 How to reach me @ne0ver3 at GitHub
 
 <!---
